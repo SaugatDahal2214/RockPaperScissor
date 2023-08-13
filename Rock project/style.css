@@ -1,0 +1,39 @@
+body{
+font-family: 'Caveat', cursive;
+font-family: 'Handjet', cursive;
+width: 70%;
+margin: auto;
+padding: auto;
+background-color: blanchedalmond;
+}
+
+h1{
+    color: red;
+    font-size: 3rem;
+    text-align: center;
+}
+h3{
+    color: red;
+    text-align: center;
+}
+
+.hands {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bolder;
+  
+  }
+  .content{
+    margin-top: 5rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+footer{
+    margin-top: 15%;
+    font-size: 2rem;
+    text-align: center;
+}
